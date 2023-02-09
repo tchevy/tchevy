@@ -2,6 +2,9 @@
 
 -🌱 Docker, Kubernetes, Apache Kafka,Jenkins,Ansible,git...
 
+<div>
+  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tchevy&show_icons=true&theme=transparent)"/>
+</div>
 
 <div style="display: inline_block"><br>
 
