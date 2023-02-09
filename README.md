@@ -1,9 +1,7 @@
-Olá
-🔭 Atualmente estou trabalhando com Suporte Técnico em Harware e Software...
-🌱 Atualmente estou estudando Docker, Kubernetes, Apache Kafka,Jenkins,Ansible,git...
--->
-<div>
-  <a href=">
+-🔭 Atualmente estou trabalhando com Suporte Técnico em Harware e Software...
+-🌱 Atualmente estou estudando Docker, Kubernetes, Apache Kafka,Jenkins,Ansible,git...
+
+
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Roberto Dias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
