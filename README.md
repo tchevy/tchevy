@@ -5,8 +5,8 @@
 <div>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=tchevy&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=tchevy&show_icons=true&theme=darcula"
+  media="(prefers-color-scheme:darcula)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=tchevy&show_icons=true"
