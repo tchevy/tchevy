@@ -26,6 +26,8 @@
   <img align="center" alt="Roberto Dias-KUBERNETES" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="center" alt="Roberto Dias-LINUX" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Roberto Dias-JAVA" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- ![Snake animation](https://github.com/tchevy/tchevy/blob/output/github-contribution-grid-snake.svg)
+
+  
+  ![Snake animation](https://github.com/tchevy/tchevy/blob/output/github-contribution-grid-snake.svg)
   
 </div>
