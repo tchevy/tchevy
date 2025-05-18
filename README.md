@@ -16,6 +16,8 @@
 </picture>
 <div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tchevy&show_icons=true&theme=transparent)
+
 
 <div style="display: inline_block"><br>
 
